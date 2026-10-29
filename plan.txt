@@ -1,0 +1,10 @@
+KrishiLink/
+├── src/
+│   ├── app.ts
+│   └── server.ts
+├── .env
+├── .env.example
+├── .gitignore
+├── package.json
+├── package-lock.json
+└── tsconfig.json
